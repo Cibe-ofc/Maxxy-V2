@@ -6,11 +6,11 @@ import moment from "moment-timezone"
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ["6285380166282"],
-  ["6285380166282", "️𝐎𝐰𝐧𝐞𝐫", true]
+  ["6285797375014"],
+  ["6285797375014", "️𝐎𝐰𝐧𝐞𝐫", true]
 ]
-global.mods = ["6285380166282"]
-global.prems = ["6285380166282"]
+global.mods = ["6285797375014"]
+global.prems = ["6285797375014"]
 
 /*Website*/
 global.APIs = {
@@ -68,19 +68,19 @@ HIRO
 */
 
 /*Number*/
-global.nomorbot = "6285380166282"
-global.nomorown = "6285380166282"
-global.namebot = "𝙼𝚊𝚡𝚡𝚢 𝙵𝚝 𝙱𝚎𝚊𝚝𝚛𝚒𝚡"
-global.nameown = "「 𝙆𝙖𝙝𝙛𝙞 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 」"
+global.nomorbot = "6285797375014"
+global.nomorown = "6285797375014"
+global.namebot = "ᴋʏᴋʏ"
+global.nameown = "「 ɪᴋʏ 」"
 
 /* Random */
 global.pmenus = pickRandom(["◈","➭","ଓ","⟆•","⳻⳻","•","↬","◈▻","⭑","ᯬ","◉","᭻","»","〆","々","⛥","✗","⚜","⚚","♪"])
 global.htjava = pickRandom(["⛶","❏","⫹⫺","☰","⎔","✦","⭔","⬟","⛊","⚝"])
 
 /*Watermark*/
-global.wm = "                「 Maxxy Botz あ⁩ 」"
+global.wm = "                「 Oneshot Botz あ⁩ 」"
 global.wm2 = "꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷"
-global.wm3 = htjava + "𝙼𝚊𝚡𝚡𝚢 𝙱𝚘𝚝𝚣"
+global.wm3 = htjava + "Oneshot"
 global.botdate = `${htjava} Date :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}`
 global.titlebot = `${htjava} Time Sever : ${moment.tz("Asia/Jakarta").format("HH:mm:ss")}\n⫹⫺ Date Server :  ${moment.tz("Asia/Jakarta").format("DD/MM/YY")}`
@@ -96,12 +96,12 @@ global.flaaa = [
 "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="]
 
 /*Link*/
-global.sig = "https://instagram.com/kahfiofc"
+global.sig = "https://instagram.com/lynxofcid"
 global.sgh = "https://www.github.com/Frezzy-Md"
-global.sgc = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.sgc = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
 global.sdc = "-"
-global.snh = "https://lynk.id/kahfi.xd"
-global.sfb = "https://www.facebook.com/kahfiofc"
+global.snh = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
+global.sfb = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
 global.syt = "https://www.youtube.com/@MaxxyBotz"
 
 /*Nsfw*/
@@ -213,7 +213,7 @@ global.cmenua = "\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.packname = "𝗠𝗮𝗱𝗲 𝗕𝘆"
 global.stickpack = packname
-global.author = "𝙈𝙖𝙭𝙭𝙮 乂 𝙆𝙖𝙝𝙛𝙞"
+global.author = "ɪᴋʏ 乂 ᴏɴᴇsʜᴏᴛ"
 global.stickauth = author + "\nwa.me/" + nomorbot
 global.multiplier = 69
 
@@ -221,22 +221,22 @@ global.multiplier = 69
 global.eror = "*E R R O R*"
 global.wait = "*W A I T*"
 global.render = "*R E N D E R*"
-global.webs = "https://lynk.id/kahfi.xd"
-global.gcwangsaf = "https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup"
+global.webs = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
+global.gcwangsaf = "https://chat.whatsapp.com/Fe2ky3uDJIdIvmtt41cO9h"
 
 /*Donasi*/
-global.saweria = "https://saweria.co/MaxxyBotz"
-global.dana = "085380166282"
-global.pulsa = "085295374964"
+global.saweria = "chatowner"
+global.dana = "-"
+global.pulsa = "chatowner"
 global.trakteer = "-"
 global.paypal = "-"
 global.gopay = "-"
-global.pdana = "085380166282"
+global.pdana = "-"
 global.povo = "-"
-global.pgopay = "-"
-global.ppulsa = "085380166282"
-global.ppulsa2 = "085380166282"
-global.psaweria = "https://saweria.co/MaxxyBotz"
+global.pgopay = "chatowner"
+global.ppulsa = "chatowner"
+global.ppulsa2 = "chatowner"
+global.psaweria = "chatowner"
 
 /* Fake adReplyS*/
 		global.adReplyS = {
@@ -544,7 +544,7 @@ let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JH
 					itemCount: "1000",
 					status: 1,
 					surface: 1,
-					message: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Makassar").format("HH:mm:ss")}`,
+					message: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Mars").format("HH:mm:ss")}`,
 					orderTitle: Sarapan,
 					sellerJid: Org + "@s.whatsapp.net"
 				}
@@ -597,7 +597,7 @@ let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JH
 			message: {
 				extendedTextMessage: {
 					text: Sarapan,
-					title: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Makassar").format("HH:mm:ss")}`,
+					title: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Mars").format("HH:mm:ss")}`,
 					jpegThumbnail: Thum
 				}
 			}
@@ -609,7 +609,7 @@ let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JH
 			message: {
 				liveLocationMessage: {
 					caption: Sarapan,
-					h: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Makassar").format("HH:mm:ss")}`,
+					h: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Mars").format("HH:mm:ss")}`,
 					jpegThumbnail: Thum
 				}
 			}
@@ -626,7 +626,7 @@ let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JH
 							jpegThumbnail: Thum
 						},
 						title: Sarapan,
-						description: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Makassar").format("HH:mm:ss")}`,
+						description: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Mars").format("HH:mm:ss")}`,
 						currencyCode: "USD",
 						priceAmount1000: "1000",
 						retailerId: "Ghost",
@@ -657,7 +657,7 @@ let Thum = "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JH
 					h: Sarapan,
 					seconds: "1000",
 					gifPlayback: true,
-					caption: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Makassar").format("HH:mm:ss")}`,
+					caption: `𝗧 𝗜 𝗠 𝗘 : ${moment.tz("Asia/Mars").format("HH:mm:ss")}`,
 					jpegThumbnail: Thum
 				}
 			}
